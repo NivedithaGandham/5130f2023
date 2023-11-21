@@ -1,0 +1,6 @@
+Weekly Project Progress Report 3
+
+Title: Beyond The Pages
+
+My Contribution :
+ This week I learned and worked on various designing aspects and tried to improve them and make the webpage look better by setting the background color and I made sure that the background image does not repeat, covers the entire viewpoint, is fixed in position, and is centered. Previous week I worked on the dark mode and this week I added styles for the dark mode, When the body has the class ‘dark-mode’, it changes the background color and text color. I tried to style a button for toggling dark mode with specific background and text color. I tried to provide a visually appealing and responsive design for our webpage, with attention to dark mode support and consistent styling across different sections. I worked on the CSS code and styled the webpage with a lavender background gradient, a Roboto font, and fixed positioning. I included a dark mode with altered colors. The header has a blude background and navigation menu items are inline. I made sure Sections have margin, download button are styled, and I gave footer a blue background.  And I also commented-out code for an alternative background gradient.
